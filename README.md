@@ -5,6 +5,7 @@
    - L'échelle : taille réelle en cm et taille correspondante en pixels (mesurée dans Paint, par exemple).
    - La taille du papier (par défaut, A4 : 21 x 29.7 cm).
 4. Lancer le script.
+5. Récupérer l'image découpée dans le dossier 'Output'
 
 Note : 
 Ce script n'est pas révolutionnaire, mais je l'utilise souvent et je le perds tout le temps... 
